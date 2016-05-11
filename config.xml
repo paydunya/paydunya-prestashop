@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>paydunya</name>
+    <displayName><![CDATA[PAYDUNYA]]></displayName>
+    <version><![CDATA[0.1]]></version>
+    <description><![CDATA[Acceptez des paiements via Orange Money sur votre site Prestashop.]]></description>
+    <author><![CDATA[PAYDUNYA]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <confirmUninstall>Êtes-vous sûr de vouloir supprimer les données ?</confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+    <limited_countries></limited_countries>
+</module>
