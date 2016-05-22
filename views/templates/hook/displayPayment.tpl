@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-xs-12 col-md-6">
+    <div class="col-xs-12">
         <p class="payment_module">
             <a href="{$link->getModuleLink('paydunya', 'payment')|escape:'html'}" class="paydunya">
                 {l s={$paydunya_paynow_text} mod='paydunya'}<br>
